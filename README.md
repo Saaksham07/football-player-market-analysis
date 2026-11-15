@@ -4,7 +4,7 @@
 Analysed 19,165 FIFA 22 players across 55 leagues using SQL, Python, and Power BI to identify undervalued young talents and market trends.
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Tools Used
 * PostgreSQL — data querying and analysis
